@@ -1,4 +1,5 @@
-# Multimodal Emotion Recognition
+# Multimodal Emotion Recognition using facial expression and other
+physiological condition
 
 
 
